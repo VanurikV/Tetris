@@ -24,6 +24,6 @@ Puzzle game implemented on unity
 ## [Play on line](https://vanurikv.github.io/Tetris/index.html)
 
 ## Downloads
-[Android APK file (24Mb)](https://github.com/VanurikV/Tetris/raw/main/Etc/Tetris.apk?raw=true)
+[Android APK file (23Mb)](https://github.com/VanurikV/Tetris/raw/main/Bin/Tetris.apk?raw=true)
 
 
