@@ -1,5 +1,12 @@
 <h1 align="center">Tetris</h1>
 
+There is 50 different rounds prepared. Almost each round is partly filled with some diagram created by particular shapes. 
+Every round contains objective(s) to complete. 
+3 kinds of objectives does exist - 
+"Fulfill Your Quota", 
+"Destroy All Bricks" and
+"Survive xx Seconds".
+
 <img src="https://github.com/VanurikV/Tetris/blob/main/Img/Icon.png?raw=true" width="50%">
 
 Puzzle game implemented on unity
