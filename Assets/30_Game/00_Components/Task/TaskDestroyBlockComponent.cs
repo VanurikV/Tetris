@@ -1,0 +1,6 @@
+namespace Tetris {
+    struct TaskDestroyBlockComponent
+    {
+        
+    }
+}
